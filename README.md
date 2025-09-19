@@ -3,7 +3,7 @@
 ## 📋 Description du Projet
 
 Ce projet implémente un système de génération d'images de Pokémon utilisant des modèles de diffusion (DDPM - Denoising Diffusion Probabilistic Models). Le système utilise une architecture U-Net conditionnée par des embeddings textuels CLIP pour générer des images de Pokémon à partir de descriptions textuelles incluant leur nom et leurs types.
-
+DDPM Pokemon Image Generation From Scratch
 ## 🚀 Caractéristiques Principales
 
 - **Web Scraping Automatisé** : Collecte automatique des images et métadonnées de Pokémon depuis Bulbapedia
